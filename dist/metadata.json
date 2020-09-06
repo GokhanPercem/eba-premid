@@ -1,5 +1,5 @@
 {
-    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "$schema": "https:/schemas.premid.app/metadata/1.0",
     "author": {
         "name": "GokhanP",
         "id": "373688230626852865"
@@ -10,7 +10,7 @@
     }],
     "url": "ders.eba.gov.tr/",
     "description": {
-        "tr-tr": "EBA için PreMiD eklentisi",
+        "tr": "EBA için PreMiD eklentisi",
         "en-us": "EBA is a online education service for students in Turkey"
     },
     "service": "EBA",
