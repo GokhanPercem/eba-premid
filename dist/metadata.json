@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "GokhanP",
+    "id": "373688230626852865"
+  },
+  "url": "ders.eba.gov.tr/",
+  "description": {
+    "tr-tr": "Turkish Language",
+    "en-us": "English Language"
+  },
+  "service": "EBA",
+  "version": "1.0",
+  "logo": "ebalogo.png",
+  "thumbnail": "ebathumbnail.png",
+  "color": "#FF1B00",
+  "tags": [
+    "eba",
+    "eğitim",
+    "bilişim",
+    "ağı",
+    "egitim",
+    "türkçe",
+    "türkiye"
+  ],
+  "category": "other"
+}
