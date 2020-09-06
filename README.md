@@ -1,2 +1,3 @@
-# EBA - PREMID EKLENTİSİ 
-<p style="color:#292929;border-left-style:solid;border-left-width:2px;border-left-color:#292929;">EBA (Egitim Bilisim Agi) Presence for PreMiD<p>
+<h3 style="color:blue;">EBA (Egitim Bilisim Agi) Presence for PreMiD</h3>
+<img src = "https://lh3.googleusercontent.com/3NdURbrGeuHGg_dsEBuG2no_MUBGuwvUxTTbaqyVcWaO2AsxyFUqtE1qBEl3MCDzzNAv">
+
