@@ -1,27 +1,31 @@
 {
-  "$schema": "https://schemas.premid.app/metadata/1.0",
-  "author": {
-    "name": "GokhanP",
-    "id": "373688230626852865"
-  },
-  "url": "ders.eba.gov.tr/",
-  "description": {
-    "tr-tr": "Turkish Language",
-    "en-us": "English Language"
-  },
-  "service": "EBA",
-  "version": "1.0",
-  "logo": "ebalogo.png",
-  "thumbnail": "ebathumbnail.png",
-  "color": "#FF1B00",
-  "tags": [
-    "eba",
-    "eğitim",
-    "bilişim",
-    "ağı",
-    "egitim",
-    "türkçe",
-    "türkiye"
-  ],
-  "category": "other"
+    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "author": {
+        "name": "GokhanP",
+        "id": "373688230626852865"
+    },
+    "contributors": [{
+        "name": "Eneskp3441",
+        "id": "474558346960044032"
+    }],
+    "url": "ders.eba.gov.tr/",
+    "description": {
+        "tr-tr": "Turkish Language",
+        "en-us": "English Language"
+    },
+    "service": "EBA",
+    "version": "1.0.0",
+    "logo": "./Assets/ebalogo.png",
+    "thumbnail": "./Assets/ebathumbnail.png",
+    "color": "#FF1B00",
+    "tags": [
+        "eba",
+        "eğitim",
+        "bilişim",
+        "ağı",
+        "egitim",
+        "türkçe",
+        "türkiye"
+    ],
+    "category": "other"
 }
