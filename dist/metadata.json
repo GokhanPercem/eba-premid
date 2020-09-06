@@ -15,8 +15,8 @@
     },
     "service": "EBA",
     "version": "1.0.0",
-    "logo": "./Assets/ebalogo.png",
-    "thumbnail": "./Assets/ebathumbnail.png",
+    "logo": "ebalogo.png",
+    // "thumbnail": "ebathumbnail.png",
     "color": "#FF1B00",
     "tags": [
         "eba",
