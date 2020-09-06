@@ -10,8 +10,8 @@
     }],
     "url": "ders.eba.gov.tr/",
     "description": {
-        "tr-tr": "Turkish Language",
-        "en-us": "English Language"
+        "tr-tr": "EBA için PreMiD eklentisi",
+        "en-us": "EBA is a online education service for students in Turkey"
     },
     "service": "EBA",
     "version": "1.0.0",
