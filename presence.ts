@@ -1,5 +1,5 @@
 let presence = new Presence({
-    clientId: "000000000000000000" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
+    clientId: "752182833719673023" // Discord'dan (https://discordapp.com/developers/applications) aldığınız uygulama ID'si
 }),
 
 yazilar = await presence.getStrings({
